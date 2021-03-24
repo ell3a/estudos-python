@@ -16,11 +16,11 @@ A biblioteca Numpy é composta de umas série de funções matemáticas de uso a
 
 ### Lista de Funções Apresentadas Por Arquivo
 
-* `01-introducao.ipynb`: Introdução ao uso do módulo Numpy
+* [`01-introducao.ipynb`](https://github.com/ell3a/estudos-python/blob/main/numpy-arrays/01-introducao.ipynb): Introdução ao uso do módulo Numpy
 
     Função              | Descrição
     --------------------|----------
-    `np.array`          | Tranforma dados em arrays numpys
+    `np.array`          | Transforma dados em arrays numpys
     `np.arange`         | Gera um array de números ordenados
     `np.random.rand`    | Geração de arrays (vetores e matrizes) com números aleatórios
     `np.random.randint` | Geração de um array de números inteiros
@@ -28,8 +28,16 @@ A biblioteca Numpy é composta de umas série de funções matemáticas de uso a
     `np.ones`           | Array (vetor ou matriz) composto por números 1
     `np.empty`          | Array (vetor ou matriz) composto por espaços vazios
 
-* `02-matrizes.ipynb`: Introdução ao uso do módulo Numpy
+* [`02-matrizes.ipynb`](https://github.com/ell3a/estudos-python/blob/main/numpy-arrays/01-introducao.ipynb): Introdução ao uso do módulo Numpy
 
     Função              | Descrição
     --------------------|----------
     `np.diag`           | Criação de matrizes diagonais
+    `np.eye`            | Matrizes identidades
+    `np.tile`           | Cria padrões de replicação de arrays
+
+* [`03-operacoes-matematicas`](): Apresenta algumas operações matemática sobre os elementos de uma array numpy.
+
+    Função              | Descrição
+    --------------------|----------
+    `np.linspace`       | Criação de uma array composto de uma lista de valores.
