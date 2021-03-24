@@ -27,3 +27,9 @@ A biblioteca Numpy é composta de umas série de funções matemáticas de uso a
     `np.zeros`          | Array (vetor ou matriz) composto por numéros 0
     `np.ones`           | Array (vetor ou matriz) composto por números 1
     `np.empty`          | Array (vetor ou matriz) composto por espaços vazios
+
+* `02-matrizes.ipynb`: Introdução ao uso do módulo Numpy
+
+    Função              | Descrição
+    --------------------|----------
+    `np.diag`           | Criação de matrizes diagonais
