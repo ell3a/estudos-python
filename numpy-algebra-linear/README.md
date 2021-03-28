@@ -6,7 +6,7 @@ Nesse repositório estão as anotações e códigos resultantes dos estudos do l
 
 * [`numpy-algebra-linear.ipynb`](https://github.com/ell3a/estudos-python/blob/main/numpy-algebra-linear/numpy-algebra-linear.ipynb): São apresentadas algumas funcionalidades básicas de python e da biblioteca numpy. Nessa arquivo também são apresentados alguns conceitos de matrizes: operações e propriedades.
 
-* [`numpy-transformacoes-lineares.ipynb`](https://github.com/ell3a/estudos-python/blob/main/numpy-algebra-linear/lambda.ipynb): É feito um breve estudo de conceitos de álgebra linear. Nesse arquivo são estudadas as transformações lineares, auto valores e auto vetores de uma matriz, usando numpy para nos cálculos.
+* [`numpy-transformacoes-lineares.ipynb`](https://github.com/ell3a/estudos-python/blob/main/numpy-algebra-linear/numpy-transformacoes-lineares.ipynb): É feito um breve estudo de conceitos de álgebra linear. Nesse arquivo são estudadas as transformações lineares, auto valores e auto vetores de uma matriz, usando numpy para nos cálculos.
 
 ### funcionalidades apresentadas no arquivo [`numpy-algebra-linear.ipynb`](https://github.com/ell3a/estudos-python/blob/main/numpy-algebra-linear/numpy-algebra-linear.ipynb)
 
